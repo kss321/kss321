@@ -1,14 +1,9 @@
-### Hello, I'm sosun 👋
-##### Frontend and Infra Engineer in Tokyo 🗼 <br>
+## Hello, I'm sosun 👋
+Frontend and Infra Developer in Tokyo 🗼 <br>
 
 ---
 
-How to reach me<br>
-📧 Email : <br>
-🌐 Blog : 
-
----
-🛠 Teck Stacks <br>
+### 🛠 Teck Stacks <br>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white"/></a>
@@ -28,8 +23,11 @@ How to reach me<br>
 
 ---
 
+### GitHub stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kss321&show_icons=true&theme=vue) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kss321&theme=vue)
+
+---
 
 
 
