@@ -1,7 +1,8 @@
 ### Hello, I'm sosun 👋
 ##### Frontend and Infra Engineer in Tokyo 🗼 <br>
+
 ---
-🛠 Teck Stacks <br>
+
 How to reach me<br>
 📧 Email : <br>
 🌐 Blog : 
