@@ -28,8 +28,8 @@ How to reach me<br>
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kss321&show_icons=true&theme=default) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kss321&theme=default)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kss321&show_icons=true&theme=vue) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kss321&theme=vue)
 
 
 
